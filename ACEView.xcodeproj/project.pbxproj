@@ -1546,7 +1546,6 @@
 		361CDED81A837923007743D0 /* mode-pgsql.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-pgsql.js"; sourceTree = "<group>"; };
 		361CDED91A837923007743D0 /* mode-php.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-php.js"; sourceTree = "<group>"; };
 		361CDEDA1A837923007743D0 /* mode-plain_text.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-plain_text.js"; sourceTree = "<group>"; };
-		361CDEDB1A837923007743D0 /* mode-powershell.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-powershell.js"; sourceTree = "<group>"; };
 		361CDEDC1A837923007743D0 /* mode-praat.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-praat.js"; sourceTree = "<group>"; };
 		361CDEDD1A837923007743D0 /* mode-prolog.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-prolog.js"; sourceTree = "<group>"; };
 		361CDEDE1A837923007743D0 /* mode-properties.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mode-properties.js"; sourceTree = "<group>"; };
@@ -3644,7 +3643,6 @@
 				361CDED81A837923007743D0 /* mode-pgsql.js */,
 				361CDED91A837923007743D0 /* mode-php.js */,
 				361CDEDA1A837923007743D0 /* mode-plain_text.js */,
-				361CDEDB1A837923007743D0 /* mode-powershell.js */,
 				361CDEDC1A837923007743D0 /* mode-praat.js */,
 				361CDEDD1A837923007743D0 /* mode-prolog.js */,
 				361CDEDE1A837923007743D0 /* mode-properties.js */,
